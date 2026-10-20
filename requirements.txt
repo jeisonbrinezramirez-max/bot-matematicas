@@ -1,1 +1,3 @@
-flask
+Flask
+sympy
+requests
